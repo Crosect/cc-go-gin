@@ -1,10 +1,10 @@
-# cc-go-gin GIN
+# CC-GO-GIN
 
-Gin Wrapper to adapt with [GoLib](https://github.com/Crosect/cc-go)
+Gin Wrapper to adapt with [CC-GO](https://github.com/Crosect/cc-go)
 
 ### Setup instruction
 
-Base setup, see [GoLib Instruction](https://github.com/Crosect/cc-go/blob/main/README.md)
+Base setup, see [CC-GO Instruction](https://github.com/Crosect/cc-go/blob/main/README.md)
 
 Both `go get` and `go mod` are supported.
 
